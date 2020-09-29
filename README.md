@@ -1,10 +1,13 @@
-- 💼 I work at [**Zé Delivery**](https://ze.delivery)
-- 🖋 I write at [**EnZÉnharia engineering blog**](https://enzenharia.ze.delivery) (portuguese), and [**Medium**](https://medium.com/@flpStrri)
-- ⚙️ I deal daily with:
-  - `Serverless Python applications` serving `GraphQL` or `REST` endpoints using `AWS Lambda`;
-  - `PostgreSQL` on `Aurora` with `pgpool-II` middleware or `DynamoDB` persistence layer;
-  - `CloudWatch` & `X-Ray` telemetry;
-  - Automated `CI/CD pipelines` using TravisCI and Github Actions;
+I work in a global disruptive growth group backed by one of the largest CPG companies in the world — Anheuser-Busch InBev — creating software to ease the way people enjoy their moments together. 🍻
+
+My current activities involve architecting, developing, and deploying python serverless applications on AWS cloud infrastructure with:
+- Either *Serverless Framework* or *Terraform* or even both, mostly exposed on a GraphQL endpoint or REST endpoints on Lambda;
+- Aurora PostgreSQL with *pgpool-II* middleware or DynamoDB persistence layer;
+- CloudWatch & X-Ray telemetry;
+- Automated CI/CD pipelines using TravisCI and Github Actions to deliver a "Serverless Github Flow";
+
+I also burn some midnight oil to write at [**Zé Delivery Blog**](https://enzenharia.ze.delivery) (Portuguese), and [**Medium**](https://medium.com/@flpStrri)
+
 <!-- - 🌍 I'm mostly active within the **?? Community** -->
 <!-- - 🎙 Currently hosting [Awesome Podcast]() -->
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/flpstrri/)
+> 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/flpstrri/)
