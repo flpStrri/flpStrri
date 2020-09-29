@@ -1,6 +1,6 @@
 I work in a global disruptive growth group backed by one of the largest CPG companies in the world — Anheuser-Busch InBev — creating software to ease the way people enjoy their moments together. 🍻
 
-My current activities involve architecting, developing, and deploying python serverless applications on AWS cloud infrastructure with:
+My current activities involve architecting, developing, and deploying Python serverless applications on AWS with:
 - Either *Serverless Framework* or *Terraform* or even both, mostly exposed on a GraphQL endpoint or REST endpoints on Lambda;
 - Aurora PostgreSQL with *pgpool-II* middleware or DynamoDB persistence layer;
 - CloudWatch & X-Ray telemetry;
