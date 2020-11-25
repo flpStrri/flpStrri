@@ -7,7 +7,7 @@ My current activities involve architecting, developing, and deploying Python ser
 - CloudWatch & X-Ray telemetry;
 - Automated CI/CD pipelines using TravisCI and Github Actions to deliver a "Serverless Github Flow";
 
-I also burn some midnight oil to write — in Portuguese — at [**Zé Delivery Blog**](https://enzenharia.ze.delivery), and [**Medium**](https://medium.com/@flpStrri)
+I also burn some midnight oil to write — in Portuguese — at [**Zé Delivery Blog**](https://rezenha.ze.delivery), and [**Medium**](https://medium.com/@flpStrri)
 
 <!-- - 🌍 I'm mostly active within the **?? Community** -->
 <!-- - 🎙 Currently hosting [Awesome Podcast]() -->
