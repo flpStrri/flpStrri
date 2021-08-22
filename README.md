@@ -7,11 +7,6 @@ My current activities includes architecting, developing, and deploying highly av
 * Aurora PostgreSQL with pgpool-II middleware or DynamoDB persistence layer;
 * CloudWatch & X-Ray telemetry;
 * Automated CI/CD pipelines using TravisCI or Github Actions;
-- Python, Python, 🐍, and a little more of Python;
-- Either *Serverless Framework* or *Terraform* or even both, on AWS Lambda, exposing a GraphQL or REST endpoint;
-- Aurora PostgreSQL with *pgpool-II* middleware or DynamoDB persistence layer;
-- CloudWatch & X-Ray telemetry;
-- Automated CI/CD pipelines using TravisCI or Github Actions to deliver a "Serverless Github Flow";
 
 I also burn some midnight oil to write — in Portuguese — at [**ReZÉnha**](https://rezenha.ze.delivery), and [**Medium**](https://medium.com/@flpStrri)
 
