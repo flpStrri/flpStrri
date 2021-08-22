@@ -5,10 +5,10 @@ My current activities includes architecting, developing, and deploying highly av
 * Event driven or low latency RESTFUL micro-services deployed on ECS Docker containers or AWS Lambda;
 * Infrastructure as code using either Serverless Framework or Terraform or even both;
 * Aurora PostgreSQL with pgpool-II middleware or DynamoDB persistence layer;
-* CloudWatch & X-Ray telemetry;
+* CloudWatch, X-Ray and OpenTelemetry;
 * Automated CI/CD pipelines using TravisCI or Github Actions;
 
-I also burn some midnight oil to write — in Portuguese — at [**ReZÉnha**](https://rezenha.ze.delivery), and [**Medium**](https://medium.com/@flpStrri)
+I also burn some midnight oil to write — in Portuguese — at [**ReZÉnha**](https://rezenha.ze.delivery), and [**Medium**](https://medium.com/@flpStrri).
 
 <!-- - 🌍 I'm mostly active within the **?? Community** -->
 <!-- - 🎙 Currently hosting [Awesome Podcast]() -->
