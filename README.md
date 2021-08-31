@@ -1,4 +1,4 @@
-I work at [Zé Delivery](https://ze.delivery), Brazil's largest beverage delivery service, as staff software engineer creating software to ease the way people enjoy their moments together. 🍻
+I work at [Zé Delivery](https://ze.delivery), world’s largest beverage delivery service, as staff software engineer creating products to ease the way people enjoy their moments together. 🍻
 
 My current activities includes architecting, developing, and deploying highly available workloads on AWS with:
 * Python, Python, some TS, 🐍, and a little more of Python;
