@@ -1,15 +1,16 @@
-I work at [Zé Delivery](https://ze.delivery), world’s largest beverage delivery service, as staff software engineer creating products to ease the way people enjoy their moments together. 🍻
+A **Staff Software Engineer** that has been working the last **six years** for Anheuser-Busch InBev corporate venturing business. Now, guiding the consumer-facing tribes' backend chapter at [Zé Delivery](https://ze.delivery).
 
-My current activities includes architecting, developing, and deploying highly available workloads on AWS with:
-* Python, Python, some TS, 🐍, and a little more of Python;
-* Event driven or low latency RESTFUL micro-services deployed on ECS Docker containers or AWS Lambda;
-* Infrastructure as code using either Serverless Framework or Terraform or even both;
-* Aurora PostgreSQL with pgpool-II middleware or DynamoDB persistence layer;
-* CloudWatch, X-Ray and OpenTelemetry;
-* Automated CI/CD pipelines using TravisCI or Github Actions;
+João earned his bachelor's degree in electrical engineer from São Paulo State University and Deep Learning Nanodegree from Udacity. His current activities include architecting, developing, and deploying highly available workloads on AWS with:
+- Python, Python, some TypeScript, 🐍, and a little more of Python;
+- Micro-services deployed on AWS ECS or AWS Lambda;
+- Asynchronous messaging for inter-service communication using AWS SNS, SQS, and Kinesis Data Streams;
+- DynamoDB or Aurora PostgreSQL with pgpool-II middleware persistence layer;
+- Infrastructure as code using either Terraform or Serverless Framework;
+- Automated CI & CD pipelines using TravisCI or Github Actions;
+- CloudWatch, X-Ray, and OpenTelemetry;
 
-I also burn some midnight oil to write — in Portuguese — at [**ReZÉnha**](https://rezenha.ze.delivery), and [**Medium**](https://medium.com/@flpStrri).
+João also burns some midnight oil to write — in Portuguese — at [**ReZÉnha**](https://rezenha.ze.delivery), [**Medium**](https://medium.com/@flpStrri), and — in English — at [**Substack**](https://serverlesseng.substack.com).
 
-<!-- - 🌍 I'm mostly active within the **?? Community** -->
-<!-- - 🎙 Currently hosting [Awesome Podcast]() -->
+We are here for a future with more cheers. 🍻
+
 > 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/flpstrri/)
