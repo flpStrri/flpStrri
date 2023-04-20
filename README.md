@@ -1,11 +1,3 @@
-A **Staff Software Engineer** that has been working the last **seven years** for Anheuser-Busch InBev. Now, serving the consumer-facing tribes' backend developers at [Zé Delivery](https://ze.delivery). João earned his bachelor's degree in electrical engineer from São Paulo State University and Deep Learning Nanodegree from Udacity.
+João is a seasoned **Staff Software Engineer** with over seven years of experience at Anheuser-Busch InBev, where he contributes to the company's mission of creating a future with more cheers: for our communities and for our company. He is well-equipped to handle a wide range of software engineering challenges and has a proven track record of success in designing, developing, deploying, and maintaining highly available workloads. Currently, he serves in the direct-to-consumer platform chapter, where he ensures that development teams follow best practices and maintain clean software.
 
-His current activities include designing, developing, deploying and mantaining highly available workloads on AWS with:
-- Python, 🐍, and a little more of Python;
-- Micro-services deployed on AWS ECS or AWS Lambda;
-- Asynchronous messaging for inter-service communication using AWS SNS, SQS, and Kinesis Data Streams;
-- DynamoDB or Aurora PostgreSQL with pgpool-II middleware persistence layer;
-- Automated CI&CD pipelines on Github Actions;
-- Datadog observability;
-
-We are here for a future with more cheers. 🍻
+As a leader, João inspires and motivates his colleagues to achieve their best. He is dedicated to protecting and supporting his team, ensuring that everyone has the resources they need to succeed. João's exceptional skill set, commitment to excellence, and leadership ability make him a valuable asset to any team seeking a highly skilled and experienced software engineer.
