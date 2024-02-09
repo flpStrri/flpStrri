@@ -1,3 +1,6 @@
-With seven years as a Staff Software Engineer at AB InBev's direct-to-consumer corporate venture, I've immersed myself in the dynamic world of technology and innovation. My journey has revolved around Python and Node.js stacks, where I've had the privilege of contributing to and leading the development of vital tooling that streamlines our development process.
+For the past eight years, I have been employed by AB InBev's direct-to-consumer corporate ventures. This gave me the opportunity to participate in many of its venture's life-cycle events:
+- Making technology decisions for new ventures.
+- Optimizing and scaling businesses.
+- Integrating successful business leaders back into AB InBev.
 
-My expertise extends to AWS services such as Lambda, Aurora, and DynamoDB, enabling me to architect scalable, high-performance solutions. I take immense pride in our achievements, including successfully managing the load of a soccer World Cup marketing campaign. My commitment to staying at the forefront of technology and my passion for delivering exceptional software experiences drive me to excel in my field. Let's connect to share insights and explore potential collaborations in the software engineering space.
+As a founding team member of Zé Delivery, I've contributed to what culminated in the successful management of the load during the soccer World Cup 2022 marketing campaign. These accomplishments exemplify our commitment and proficiency in the dynamic domain of direct-to-consumer services.
