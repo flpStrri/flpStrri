@@ -1,4 +1,6 @@
-
+<div align="center">
+		<img src="graffiti-covered-background.jpg" width="100%">
+</div>
 
 ### Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="5%">
 
